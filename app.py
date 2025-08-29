@@ -79,7 +79,7 @@ with st.sidebar:
         "Upload an image, PDF, DOCX, XLSX, or PPTX file",
         type=['png', 'jpg', 'jpeg', 'pdf', 'docx', 'xlsx', 'pptx']
     )
-
+    st.markdown('Create by: Ridham Vashishth')
     if uploaded_file:
         with st.spinner("Processing file..."):
             file_content = process_uploaded_file(uploaded_file)
