@@ -1,6 +1,7 @@
 # **Gemini AI Multi-Modal Chatbot**
 
-An interactive and intelligent chatbot built with Streamlit and powered by Google's Gemini 1.5 Flash model. This application can understand and respond to user queries, maintain conversation history, and analyze various uploaded file types for context-aware answers.
+An interactive and intelligent chatbot built with Streamlit and powered by Google's Gemini 1.5 Flash model. This application can understand and respond to user queries, maintain conversation history, and analyze various uploaded file types for context-aware answers. 
+You can acess the chatbot here: https://chatbot-gemini-rv.streamlit.app/
 
 ## **Overview**
 
